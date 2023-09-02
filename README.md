@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/Hexcold/Hexcold/blob/main/assets/banner.png" />
+<img src="./assets/banner-01.png" />
 
 <p align="center">
 
@@ -8,9 +8,16 @@
   <h1 align="center">
     Hi, Jovens!!! Eu sou o 
     <a href="">Henrique Pires (Hex) 😃️</a>
+    
+ <img src="https://badges.pufler.dev/visits/hexcold/hexcol"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/hexcold"/>
+ <img src="https://badges.pufler.dev/commits/monthly/hexcold" />
+
   </h2>  
 
 </div><br>
+
 
 <h2 align="center">Social network</h2>
 
