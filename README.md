@@ -1,5 +1,5 @@
 </p align="center">
-<img src="./assets/banner-01.png" />
+<img src="https://github.com/Hexcold/Hexcold/blob/main/assets/banner.png" />
 
 <p align="center">
 
