@@ -18,8 +18,17 @@
 
 </div><br>
 
-
 <h2 align="center">Social network</h2>
+<div align="center">
+
+  <a href="https://www.instagram.com/henrq.p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-lima-pires-b4a1361a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:henriquepiresh3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--  <a href="https://discord.com/368752905496297482" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a> -->
+
+</div><br>
+
+<h2 align="center">Technology</h2>
 
 <div align="center">
 <p align="center">
@@ -32,16 +41,6 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
-</div><br>
-
-<h2 align="center">Technology</h2>
-<div align="center">
-
-  <a href="https://www.instagram.com/henrq.p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-lima-pires-b4a1361a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:henriquepiresh3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--  <a href="https://discord.com/368752905496297482" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a> -->
 
 </div><br>
 
