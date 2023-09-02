@@ -1,10 +1,7 @@
 </p align="center">
 <img src="https://github.com/Hexcold/Hexcold/blob/main/assets/banner.png" />
-
 <p align="center">
-
-<div><br
->
+<div>
   <h1 align="center">
     Hi, Jovens!!! Eu sou o 
     <a href="">Henrique Pires (Hex) 😃️</a><br>
