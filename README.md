@@ -7,7 +7,7 @@
 >
   <h1 align="center">
     Hi, Jovens!!! Eu sou o 
-    <a href="">Henrique Pires (Hex) 😃️</a>
+    <a href="">Henrique Pires (Hex) 😃️</a><br>
     
  <img src="https://badges.pufler.dev/visits/hexcold/hexcol"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
