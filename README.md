@@ -6,7 +6,7 @@
     Hi, Jovens!!! Eu sou o 
     <a href="">Henrique Pires (Hex) 😃️</a><br>
     
- <img src="https://badges.pufler.dev/visits/hexcold/hexcol"/> 
+ <img src="https://badges.pufler.dev/visits/hexcold/hexcold"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/hexcold"/>
  <img src="https://badges.pufler.dev/commits/monthly/hexcold" />
