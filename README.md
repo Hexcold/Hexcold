@@ -49,7 +49,7 @@
   ![Snake animation](https://github.com/Hexcold/Hexcold/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
+<div>
 <h2 align="center">Github Stats</h2>
 
 <p align = "center"> 
@@ -62,9 +62,19 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hexcold&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+</p>
 
-<hr>
+<br>
+
+</div>
+<div align="center">
+  
+  <h2 align="center">GitHub Trophies</h2>
+  
+  <img src = "https://github-profile-trophy.vercel.app/?username=Hexcold&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+
+</div>
+
 
 <!-- <div align="center" valign="top"><br>
 
