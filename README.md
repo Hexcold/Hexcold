@@ -1,21 +1,21 @@
+
 </p align="center">
-<img src="https://github.com/Hexcold/Hexcold/blob/main/assets/banner.png" />
+<img src="https://github.com/Hexcold/Hexcold/blob/main/assets/banner%201.svg" />
 <p align="center">
 <div>
-  <h1 align="center">
-    Hi, Jovens!!! Eu sou o 
-    <a href="">Henrique Pires (Hex) 😃️</a><br>
-    
- <img src="https://badges.pufler.dev/visits/hexcold/hexcold"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/hexcold"/>
- <img src="https://badges.pufler.dev/commits/monthly/hexcold" />
+<!--
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>
+-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aeff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Pires;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   </h2>
 
 </div><br>
+<hr>
 
-<h2 align="center">Social network</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Social+Network;)](https://git.io/typing-svg)
+
 <div align="center" class="social">
 
   <a href="https://www.instagram.com/henrq.p/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" target="_blank" width="50" height="50"></a>⠀
@@ -26,8 +26,10 @@
 
 
 </div><br>
+<hr>
 
-<h2 align="center">Technology</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Technology;)](https://git.io/typing-svg)
+
 
 <div align="center" class="tec">
 <p align="center">
@@ -41,40 +43,75 @@
 </p>
 
 </div><br>
+<hr>
 
-<h2 align="center">Snake</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Snake;)](https://git.io/typing-svg)
 
 <div align="center">
 
   ![Snake animation](https://github.com/Hexcold/Hexcold/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div><br>
 <div>
-<h2 align="center">Github Stats</h2>
+<hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Contribution+Graph;)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hexcold&bg_color=141321&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- 
+https://ashutosh00710.github.io/github-readme-activity-graph/
+-->
+
+</div>
+<hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=GitHub+Stats;)](https://git.io/typing-svg)
+
 
 <p align = "center"> 
-  <img  src = "https://github-readme-stats.vercel.app/api?username=hexcold&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Hexcold&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=f8d847&text_color=ffffff&bg_color=141321" alt="Henrique Pires github stats">
 </P>
-
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hexcold&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexcold&layout=compact&hide_border=true&title_color=00aeff&text_color=ffffff&bg_color=141321" />
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hexcold&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
-
-<br>
-
-</div>
 <div align="center">
+<hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=GitHub+Trophies;)](https://git.io/typing-svg)
+
   
-  <h2 align="center">GitHub Trophies</h2>
-  
-  <img src = "https://github-profile-trophy.vercel.app/?username=Hexcold&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <img src = "https://github-profile-trophy.vercel.app/?username=Hexcold&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
 
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hexcold}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer"/>
+
+<!-- <div align="center" valign="top"><br>
+
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+</div>-->
+
+
+</div>
 
 <!-- <div align="center" valign="top"><br>
 
