@@ -17,9 +17,9 @@
 
 <div align="center" class="social">
 
-  <a href="https://www.instagram.com/henrq.p/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" target="_blank" width="50" height="50"></a>⠀
-  <a href="https://www.linkedin.com/in/henrique-lima-pires-b4a1361a8/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/96/linkedin_socialnetwork_17441.png" target="_blank" width="50" height="50"></a>⠀
-  <a href="mailto:henriquepiresh3@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/96/gmail_new_logo_icon_159149.png" target="_blank" width="50" height="50"></a>
+  <a href="https://www.instagram.com/henrq.p/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" target="_blank" width="35" height="35"></a>⠀
+  <a href="https://www.linkedin.com/in/henrique-lima-pires-b4a1361a8/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/96/linkedin_socialnetwork_17441.png" target="_blank" width="35" height="35"></a>⠀
+  <a href="mailto:henriquepiresh3@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/96/gmail_new_logo_icon_159149.png" target="_blank" width="35" height="35"></a>
 
   <!--  <a href="https://discord.com/368752905496297482" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><a> -->
 
@@ -32,13 +32,13 @@
 
 <div align="center" class="tec">
 <p align="center">
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/c_original_logo_icon_146611.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/java_original_logo_icon_146458.png" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_git_icon_130581.png" width="50" height="50"/>
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/96/github-logo_icon-icons.com_73546.png" width="50" height="50"/>
+ <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/c_original_logo_icon_146611.png" width="35" height="35"/>
+<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/java_original_logo_icon_146458.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_git_icon_130581.png" width="35" height="35"/>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/96/github-logo_icon-icons.com_73546.png" width="35" height="35"/>
 </p>
 
 </div><br>
