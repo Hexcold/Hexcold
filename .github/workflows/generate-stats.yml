@@ -1,0 +1,66 @@
+name: Generate GitHub Stats
+
+# Gera os cards (stats, top languages e troféus) como arquivos SVG
+# e faz o commit deles na pasta assets/ do próprio repositório.
+# Assim o README não depende mais da instância pública (que cai por rate limit).
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # roda a cada 12 horas
+  workflow_dispatch:          # permite rodar manualmente pela aba "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Criar pasta de assets
+        run: mkdir -p assets
+
+      - name: Baixar os cards
+        run: |
+          # Baixa um card. Só substitui o arquivo antigo se vier um SVG válido
+          # (se o serviço estiver fora do ar, mantém a última versão boa).
+          fetch() {
+            url="$1"
+            out="$2"
+            tmp="$(mktemp)"
+            for i in 1 2 3; do
+              echo "Baixando $out (tentativa $i)..."
+              if curl -fsSL "$url" -o "$tmp"; then
+                if grep -qiE "Something went wrong|Maximum retries|rate limit" "$tmp"; then
+                  echo "  -> veio card de erro, tentando de novo em 10s..."
+                  sleep 10
+                  continue
+                fi
+                mv "$tmp" "assets/$out"
+                echo "  -> OK: $out"
+                return 0
+              fi
+              echo "  -> falha no download, tentando de novo em 10s..."
+              sleep 10
+            done
+            echo "  -> não consegui baixar $out; mantendo a versão anterior."
+            rm -f "$tmp"
+          }
+
+          fetch "https://github-readme-stats.vercel.app/api?username=Hexcold&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=f8d847&text_color=ffffff&bg_color=141321" "github-stats.svg"
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=Hexcold&layout=compact&hide_border=true&title_color=00aeff&text_color=ffffff&bg_color=141321" "top-langs.svg"
+          fetch "https://github-profile-trophy.vercel.app/?username=Hexcold&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" "trophies.svg"
+
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "Nada mudou, nenhum commit necessário."
+          else
+            git commit -m "chore: atualiza cards de stats [skip ci]"
+            git push
+          fi
