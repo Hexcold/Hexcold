@@ -93,8 +93,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=600&lines=Estat%C3%ADsticas+do+GitHub;)](https://git.io/typing-svg)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hexcold&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=f8d847&text_color=ffffff&bg_color=141321" alt="Henrique Pires github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexcold&layout=compact&hide_border=true&title_color=00aeff&text_color=ffffff&bg_color=141321" alt="Top Languages" />
+<img height="165" src="assets/github-stats.svg" alt="Henrique Pires github stats" />
+<img height="165" src="assets/top-langs.svg" alt="Top Languages" />
 
 <br><br>
 
@@ -110,7 +110,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=600&lines=Trof%C3%A9us;)](https://git.io/typing-svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hexcold&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="assets/trophies.svg" alt="Trophies" />
 
 <br><br>
 
